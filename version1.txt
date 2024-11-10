@@ -1,1 +1,2 @@
-this is my first version of an appilcation
+this is my first version of an application
+adding new feature
